@@ -68,7 +68,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/desol1997/brain_tumor_classification.git
-cd hotel_booking_cancellation_prediction
+cd brain_tumor_classification
 ```
 
 ### Step 3: Set Up the Environment
